@@ -1,1 +1,48 @@
 # Storytelling-on-Exchange-Rates
+
+# Overview
+This repository contains a data storytelling project that explores the Euro to US Dollar exchange rate data from 1999 to 2020. The project uses Python and the Matplotlib library to visualize the exchange rate trends and analyze key events, including the 2007-2008 financial crisis and the exchange rate during the terms of different U.S. presidents.
+
+# Project Structure
+The project is organized into several key sections, each with its own purpose:
+
+**Exploratory Data Analysis:** Initial data loading, cleaning, and exploration.
+
+**Visualizing Exchange Rate Data**: Visualizations of the exchange rate data using Matplotlib.
+
+**Analyzing the Financial Crisis:** Focused analysis of the 2007-2008 financial crisis and highlighting key points.
+
+**Applying a Stylish Theme:** Applying a customized theme to enhance the visual presentation of the plots.
+
+**Refining the Financial Crisis Plot:** Further refinements to the financial crisis plot, including annotations and styling.
+
+**Adding Attribution and Sources:** Providing proper attribution and source information for the data and visuals.
+
+**Highlighting the Financial Crisis Period:** Using axvspan to visually highlight the financial crisis period.
+
+**Analyzing Different US Presidents' Terms:** Dividing the data by presidential terms and adding custom tick labels and annotations.
+
+**Creating a Composite Plot:** Generating a composite plot that overlays exchange rate data for multiple U.S. presidents.
+
+**Conclusion and Attribution:** Summarizing the project's key takeaways and providing final attribution and source details.
+
+# Usage
+To run the project and generate the visualizations, follow these steps:
+
+Clone this repository to your local machine using git clone.
+
+Ensure you have Python and the required libraries (e.g., pandas, Matplotlib) installed.
+
+Open and run the Jupyter Notebook (euro-to-usd-storytelling.ipynb) to execute the code cells.
+
+The project will generate visualizations and insights, which you can explore and use for storytelling or analysis.
+
+# Dependencies
+Python 3
+Jupyter Notebook
+pandas
+Matplotlib
+
+# Acknowledgments
+**Data source:** European Central Bank
+Inspired by data storytelling projects and visualization techniques
